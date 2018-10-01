@@ -13,5 +13,5 @@ permalink: /log/
 <b>Meditation Log</b>
 
 <ul>
-  <li>...</li>
+  <li>Sunday, September 30, 2018: 10 minutes before bed.</li>
 </ul>
