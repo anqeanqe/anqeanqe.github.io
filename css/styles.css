@@ -27,6 +27,13 @@ header {
     margin-left: 16px;
 }
 
+#post-title {
+    color: #136;
+    font-size: 24px;
+    margin-left: 16px;
+    padding-top: 16px;
+}
+
 nav {
     display: flex;
     list-style-type: none;

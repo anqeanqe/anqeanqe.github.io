@@ -31,18 +31,18 @@
     <div id="wrapper">
 
       <header>
-	<span id="dark-header"> Assume Nothing </span>
-	<span id="light-header">// {{ page.title }}</span>
+	<span id="color-header">Memories</span>
+
+	<nav>
+	  <li><a href="/">Posts</a></li>
+	  <li><a href="/about">About</a></li>
+	</nav>
       </header>
 
       <div id="contain-content">
 
-	<nav>
-	  <li><a href="/">Home</a></li>
-	  <li><a href="/about">About</a></li>
-	</nav>
-
 	<div id="content">
+          <span id="post-title">{{ page.title }}</span>
 	  {{ content }}
 	</div>
 
