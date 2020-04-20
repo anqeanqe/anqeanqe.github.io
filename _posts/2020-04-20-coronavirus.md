@@ -21,8 +21,8 @@ persisted with no noticeable change.
 On the evening of March 23 my symptoms suddenly took a turn for the worse:
 I had a fever, aches, and chills.  I slept ten or eleven hours that night,
 and the next morning I stayed in bed until noon.  I made myself soup,
-rested on the living room futon for the afternoon, and went to sleep around 10.
-Generally my symptoms felt worse during the evening and night than
+rested on the living room futon for the afternoon, and went to sleep around
+10 pm.  Generally my symptoms felt worse during the evening and night than
 during the day.  This continued through March 27.  March 28 was the first
 day I felt well enough to keep a relatively normal (albeit sedentary)
 schedule.  I took my temperature only once from 03/23 - 03/28 and measured
